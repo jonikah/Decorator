@@ -12,7 +12,7 @@ Sovelluksessa valitaan uuteen autoon varusteet, ja jokainen dekorointikerros lis
    - Varmista, että sinulla on .NET SDK asennettuna (suositus: .NET 6.0 tai uudempi).
    - Lataa projektin lähdekoodi GitHubista:
      ```
-     git clone https://github.com/jonikah/CarDecorator
+     git clone https://github.com/jonikah/Decorator
      ```
 
 2. **Käännä sovellus:**
