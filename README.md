@@ -2,8 +2,8 @@
 
 ## Toiminta
 
-Yksinkertainen konsolisovellus, jossa hyödynnetään decorator-suunnittelumallia.  
-Sovelluksessa valitaan uuteen autoon varusteet, ja jokainen dekorointikerros lisää autoon varusteen ja kasvattaa kokonaishintaa. Sovelluksessa on toteutettu vain varusteiden lisääminen, ei poistamista.
+Yksinkertainen konsolisovellus, jossa hyödynnetään Decorator-suunnittelumallia.  
+Sovelluksessa valitaan uuteen autoon varusteet, ja jokainen dekorointikerros lisää autoon varusteen ja kasvattaa kokonaishintaa.
 
 ## Asentaminen
 
@@ -35,6 +35,6 @@ Tämä projekti on lisensoitu MIT-lisenssillä.
 
 ## Tekijä
 
-Tämän projektin on kehittänyt Joni Kahari.
+Joni Kahari
 
 ---
